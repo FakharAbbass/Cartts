@@ -1,0 +1,7 @@
+.carosal {
+  max-width: 100%;
+  margin: auto;
+}
+.carosal img {
+  height: 23rem;
+}
